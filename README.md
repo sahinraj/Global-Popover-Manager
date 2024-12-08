@@ -43,12 +43,11 @@ This project implements a **Global Popover Manager** in SwiftUI, providing a cen
 ---
 
 ## Screenshots
+![Simulator Screenshot - iPhone 16 Pro - 2024-12-08 at 17 08 26](https://github.com/user-attachments/assets/d3b7d20c-4ab8-4cec-ab6c-9bec45370fb0)
+![Simulator ![Simulator Screenshot - iPhone 16 Pro - 2024-12-08 at 17 08 32](https://github.com/user-attachments/assets/dcf1870a-4383-45b9-9b17-439673325096)
+Screenshot - iPhone 16 Pro - 2024-12-08 at 17 08 28](https://github.com/user-attachments/assets/de02d0e2-c6c5-4920-9b79-33c86cf3beb5)
+![Simulator Screenshot - iPhone 16 Pro - 2024-12-08 at 17 08 36](https://github.com/user-attachments/assets/83f579b7-003d-43e4-bca1-0be0caf7ba1b)
 
-| **Main View** | **Settings Popover** | **Notifications Popover** | **Profile` Popover** |
-|---------------|-----------------------|----------------------------|
-| ![Main View]([assets/main_view.png](https://github.com/user-attachments/assets/c2a6dff3-dfb1-41dd-9a44-9ec8de9d327f)) | ![Settings Popover]([assets/settings_popover.png](https://github.com/user-attachments/assets/6f4d3b92-d055-4dd2-926f-8e9d2dd950f8)) | ![Notifications Popover]([assets/notifications_popover.png](https://github.com/user-attachments/assets/9eac9d6a-2a0f-45ef-9240-a7143def835a)) | ![Profile Popover]([[assets/notifications_popover.png](https://github.com/user-attachments/assets/9eac9d6a-2a0f-45ef-9240-a7143def835a](https://github.com/user-attachments/assets/b345dbab-ab7e-48e0-9358-fc41902ec709))) |
-
-`
 ---
 
 ## Code Structure
